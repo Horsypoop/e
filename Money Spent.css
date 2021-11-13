@@ -1,0 +1,20 @@
+h2{
+    color:white;
+    font-size:25px;
+    }
+    body{
+    background-image: linear-gradient(to right top, lightyellow, lightblue,red,purple,darkgreen, darkred, beige);
+    }   
+    input{
+    background-color: black;
+    color:white;
+    width:300px;
+    height:40;
+    }
+    h1{
+        color:white;
+        font-size:30px;
+    }
+    button{
+        color:orange;
+    }

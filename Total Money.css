@@ -1,0 +1,13 @@
+Body
+{
+background-image: linear-gradient(to right top, teal, red, yellow, orange, Lime,    red, purple);
+}   
+h1{
+    Color:white;
+    font-size:50px;
+}
+p{
+    color:white;
+    font-style: inherit;
+    font-size:100px;
+}

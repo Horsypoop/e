@@ -1,0 +1,35 @@
+#HomeBody
+{
+background-image: linear-gradient(to right top, pink, lightblue, yellow, orange, green, darkred, purple);
+}   
+#Calculate_div{
+    background-color:peachpuff;
+    float:left;
+    padding: 10px;
+    border-color:black;
+    border-radius: 15px;
+}
+#fun_thingy{
+    background-color:peachpuff;
+    float:right;
+    border-color:black;
+    border-radius: 15px;
+}
+#reeeeeee{
+    background-color:peachpuff;
+    float:left;
+    padding: 10px;
+    border-color:black;
+    border-radius: 15px;
+}
+#cool{
+    background-color:peachpuff;
+    padding: 10px;
+    float:right;
+    border-color:black;
+    border-radius: 15px;
+}
+#Home_Page_Title{
+    color:white;
+    font-size:50px
+}

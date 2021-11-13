@@ -1,0 +1,12 @@
+#Calculate_Title{
+    color:white;
+    font-size:50px;
+}
+body
+{
+background-image: linear-gradient(to right top, lightyellow, lightblue,red,purple,darkgreen, darkred, beige);
+}   
+h2{
+    color:white;
+    font-size:25px;
+}
